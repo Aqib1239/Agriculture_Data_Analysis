@@ -76,7 +76,7 @@ src/
 
 #### Clone the repository:
 
-    git clone <repository-url>
+    git clone https://github.com/Aqib1239/Agriculture_Data_Analysis.git
 
 #### Navigate into the project directory:
 
