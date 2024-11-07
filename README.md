@@ -115,4 +115,8 @@ src/
 
 #### Table A: Maximum and Minimum Production per Year
 
+![Table_A](./table-A.png)
+
 #### Table B: Average Yield and Cultivation Area per Crop
+
+![Table_B](./table-B.png)
