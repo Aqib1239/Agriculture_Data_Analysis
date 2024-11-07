@@ -1,7 +1,7 @@
   <h1>Agriculture_Data_Analysis<h1/> 
 
-<p style="font-size: 10px;">This project provides a detailed analysis of agriculture crop data using React, TypeScript, and Mantine. The goal is to compute important statistics such as crop production, yield, and cultivation area for various crops across different years.
-<p/>
+<h4>This project provides a detailed analysis of agriculture crop data using React, TypeScript, and Mantine. The goal is to compute important statistics such as crop production, yield, and cultivation area for various crops across different years.
+<h4/>
   
 Table of Contents:
 
