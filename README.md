@@ -2,7 +2,8 @@
 
 This project provides a detailed analysis of agriculture crop data using React, TypeScript, and Mantine. The goal is to compute important statistics such as crop production, yield, and cultivation area for various crops across different years.
 
-Table of Contents
+Table of Contents:
+
  --Project Overview
  --Features
  --Folder Structure
@@ -12,6 +13,7 @@ Table of Contents
 
 
 **Project Overview**
+
 This project reads agricultural data from a JSON file, processes the data to generate two tables:
 
 Table A: Displays the crop with the maximum and minimum production per year.
@@ -20,6 +22,7 @@ The app uses React and TypeScript, styled with Mantine components and custom CSS
 
 
 **Features**
+
  --> Displays crop production data in tabular format.
  --> Calculates and displays the crop with maximum and minimum production for each year.
  --> Calculates the average yield and cultivation area for each crop.
@@ -28,6 +31,7 @@ The app uses React and TypeScript, styled with Mantine components and custom CSS
 
 
 **Folder Structure**
+
 The folder structure of the project is as follows:
 
 src/
@@ -50,14 +54,17 @@ src/
 
 
 **Installation and Setup**
+
 To run this project on your local machine, follow the instructions below.
 
-Prerequisites
+Prerequisites:
+
 Make sure you have the following installed:
 
 --> yarn (or node)
 
 Steps :-
+
  --> Clone the repository:
      git clone https://github.com/Aqib1239/Agriculture_Data_Analysis.git
 
@@ -74,6 +81,7 @@ Your application should now be running at http://localhost:5173
 
 
 **How It Works**
+
  --> Data Import: The agricultural data is stored in the DataSet.json file in the data/ folder.
 
  --> Processing Data:
@@ -88,6 +96,7 @@ Your application should now be running at http://localhost:5173
 
 
 **Screenshots**
+
  --> Table A: Maximum and Minimum Production per Year
 
  --> Table B: Average Yield and Cultivation Area per Crop
