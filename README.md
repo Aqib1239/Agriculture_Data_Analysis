@@ -4,17 +4,17 @@ This project provides a detailed analysis of agriculture crop data using React, 
 
 Table of Contents:
 
- --Project Overview
+ --> Project Overview
  
- --Features
+ --> Features
  
- --Folder Structure
+ --> Folder Structure
  
- --Installation and Setup
+ --> Installation and Setup
  
- --How It Works
+ --> How It Works
  
- --Screenshots
+ --> Screenshots
  
 
 
