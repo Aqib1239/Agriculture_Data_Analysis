@@ -115,4 +115,4 @@ src/
 
 #### Table A: Maximum and Minimum Production per Year
 
-Table B: Average Yield and Cultivation Area p#### er Crop
+#### Table B: Average Yield and Cultivation Area per Crop
