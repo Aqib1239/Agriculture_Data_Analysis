@@ -19,7 +19,7 @@
  
 
 
-## **Project Overview**
+## `**Project Overview**`
 
 #### This project reads agricultural data from a JSON file, processes the data to generate two tables:
 
@@ -30,7 +30,7 @@
 #### The app uses React and TypeScript, styled with Mantine components and custom CSS for the table layout.
 
 
-## **Features**
+## `**Features**`
 
 #### --> Displays crop production data in tabular format.
 #### --> Calculates and displays the crop with maximum and minimum production for each year.
@@ -39,7 +39,7 @@
 #### --> Responsive and visually appealing UI with Mantine and custom CSS styling.
 
 
-## **Folder Structure**
+## `**Folder Structure**`
 
 #### The folder structure of the project is as follows:
 
@@ -66,7 +66,7 @@
 
 
 
-## **Installation and Setup**
+## `**Installation and Setup**`
 
 #### To run this project on your local machine, follow the instructions below.
 
@@ -97,7 +97,7 @@
 #### Your application should now be running at http://localhost:5173
 
 
-## **How It Works**
+## `**How It Works**`
 
 #### --> Data Import: The agricultural data is stored in the DataSet.json file in the data/ folder.
 
@@ -116,7 +116,7 @@
      Mantine components are used for layout and theming, while custom CSS ensures the tables are styled and readable.
 
 
-## **Screenshots**
+## `**Screenshots**`
 
 #### --> Table A: Maximum and Minimum Production per Year
  
