@@ -5,17 +5,17 @@
   
 ## Table of Contents:
 
-#### --> <mark>Project Overview<mark/>
+#### --> <mark> Project Overview<mark />
  
-#### --> Features
+#### --> <mark> Features <mark/>
  
-#### --> Folder Structure
+#### --> <mark> Folder Structure <mark/>
  
-#### --> Installation and Setup
+#### --> <mark> Installation and Setup <mark/>
  
-#### --> How It Works
+#### --> <mark> How It Works <mark/>
  
-#### --> Screenshots
+#### --> <mark> Screenshots <mark/>
  
 
 
