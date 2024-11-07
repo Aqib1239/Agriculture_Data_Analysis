@@ -3,7 +3,7 @@
 #### This project provides a detailed analysis of agriculture crop data using React, TypeScript, and Mantine. The goal is to compute important statistics such as crop production, yield, and cultivation area for various crops across different years.
 
   
-## Table of Contents:
+## `Table of Contents`:
 
 #### --> <mark> Project Overview<mark />
  
