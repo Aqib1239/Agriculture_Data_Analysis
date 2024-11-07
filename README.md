@@ -1,4 +1,5 @@
 -------------------------------- **Agriculture Data Analysis** ----------------------------------
+
 This project provides a detailed analysis of agriculture crop data using React, TypeScript, and Mantine. The goal is to compute important statistics such as crop production, yield, and cultivation area for various crops across different years.
 
 Table of Contents
@@ -30,11 +31,17 @@ The app uses React and TypeScript, styled with Mantine components and custom CSS
 The folder structure of the project is as follows:
 
 src/
+
 ├── data/
+
 │   └── DataSet.json           // dataset file
+
 ├── App.tsx                 // Main React component where logic resides
+
 ├── index.tsx               // Entry point for app
+
 ├── index.css               // Global CSS styling
+
 
 --> data.json: Contains the agricultural data used by the app.
 --> App.tsx: Main React component that contains the logic for generating the tables.
