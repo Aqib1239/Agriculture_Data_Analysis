@@ -84,7 +84,7 @@ src/
 
 #### Install the dependencies:
 
-    npm install
+    yarn  (or npm install)
 
 #### Start the development server:
 
